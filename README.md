@@ -53,7 +53,7 @@ Includes tables:
 
 ## 🧾 Documentation
 
-Detailed case study and documentation are available in the `/docs` or `/paper` folder.
+Detailed case study and documentation are available in the `/docs` folder.
 
 ## 📄 License
 
