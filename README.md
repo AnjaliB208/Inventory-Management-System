@@ -1,7 +1,6 @@
 # Inventory-Management-System
-Inventory Management System built using .NET Framework and Windows Forms. Features admin login, product and dealer management, purchase/sales tracking, stock updates, and detailed reports. Implements SQL Server backend with a clean UI and error validation.
 
-A Windows Forms-based Inventory Management System developed using the .NET Framework and Microsoft SQL Server. It provides a comprehensive solution for managing products, dealers, purchases, sales, stock levels, and report generation. This project was developed as a case study for academic purposes.
+This Inventory Management System is a desktop application built using the .NET Framework with a Windows Forms front end and a SQL Server backend. It provides a complete solution for managing products, dealers, stock levels, purchases, and sales. Key features include secure admin login, real-time stock tracking, transaction recording, and detailed reporting. The system was developed as part of an academic case study, with a focus on usability, data accuracy, and clean interface design.
 
 ## 👨‍💻 Team Members
 - Anjali Biju (20BSIT056)  
